@@ -13,5 +13,3 @@
 ## Zusammenfassung 
 
 ## Literatur 
-
-FSD IDT EIM GTEDT FÜR GIT
